@@ -102,14 +102,14 @@ Developing engineering analyses focused on identifying inefficiencies, discoveri
 **Methodology:**
 
 ```
-Problem Definition
-        ↓
-Data Collection
-        ↓
-Exploratory Analysis
-        ↓
-Performance Evaluation
-        ↓
+Problem Definition ----------------------->
+        
+Data Collection--------------------------->
+        
+Exploratory Analysis---------------------->
+        
+Performance Evaluation-------------------->
+        
 Optimization Recommendations
 ```
 
