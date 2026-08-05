@@ -1,24 +1,174 @@
-💫 About Me:
-i am a first year industrial engineering student at the university of ELManar Tunisia @ ENIT campus . I am a tech enthuiast as well , i enjoy web devloppement using ai and code i write personally , i enjoy data analysis and systems developpement , i also like to learn more about systems optimazation , and supply chain management . Nevertheless , i like me a finance case to solve but still a begginer in that section , i would like to collabroate with engineers and developpers all across the world on projects with these thems , my degree is heavy on management and data science so i am very comfortable in these roles , i am currently learning POWERBI and machine learning since i am planning to diverfy my skills and keep up with today’s technical skills and adapt ai in my workflow
+<div align="center">
 
-🌐 Socials:
-Discord [Facebook](https://facebook.com/Mayssa Saidi) Instagram [LinkedIn](https://linkedin.com/in/Mayssa Saidi) Medium Pinterest YouTube email
+# Mayssa Saidi
 
-💻 Tech Stack:
-C# Python CSS3 HTML5 JavaScript C Google Cloud Power Bi TypeScript MySQL AWS Azure FastAPI NodeJS React Matplotlib Docker Redis MongoDB scikit-learn Nginx
+### Industrial Engineering Student | Data Analytics | AI for Industrial Systems
 
-📊 GitHub Stats:
+<p>
+  <a href="www.linkedin.com/in/mayssa-saidi-6b32842a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="saidimaha925@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-gray?style=flat&logo=gmail">
+  </a>
+</p>
 
+</div>
 
+---
 
+## Profile
 
+I am an **Industrial Engineering student at ENIT** interested in the intersection between:
 
+* **Industrial Systems**
+* **Data Analytics**
+* **Artificial Intelligence**
+* **Optimization Methods**
 
-🏆 GitHub Trophies
+My objective is to develop data-driven approaches for understanding, improving, and optimizing complex systems.
 
+I am particularly interested in applying engineering principles and computational tools to real-world challenges in:
 
-✍️ Random Dev Quote
+* Production systems
+* Supply chain management
+* Process improvement
+* Decision support systems
 
+---
 
-🔝 Top Contributed Repo
+## Research & Engineering Interests
 
+<table>
+<tr>
+<td width="50%">
+
+### Industrial Engineering
+
+* Process optimization
+* Lean management
+* Operations research
+* Supply chain systems
+* Performance improvement
+
+</td>
+
+<td width="50%">
+
+### Data & AI
+
+* Exploratory data analysis
+* Machine learning applications
+* Predictive analytics
+* Data visualization
+* Intelligent decision systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Environment
+
+### Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github" />
+</p>
+
+### Analytics & Visualization
+
+* Python ecosystem (Pandas, NumPy, Matplotlib)
+* SQL
+* Power BI
+* Data visualization techniques
+
+### Engineering Methods
+
+* Process mapping
+* Statistical analysis
+* Optimization techniques
+* Continuous improvement methodologies
+
+---
+
+## Featured Projects
+
+### 🏭 Industrial Process Optimization Studies
+
+Developing engineering analyses focused on identifying inefficiencies, discovering bottlenecks, and proposing improvement strategies.
+
+**Methodology:**
+
+```
+Problem Definition
+        ↓
+Data Collection
+        ↓
+Exploratory Analysis
+        ↓
+Performance Evaluation
+        ↓
+Optimization Recommendations
+```
+
+---
+
+### 📊 Retail Operations Analytics
+
+A data-driven study analyzing operational performance indicators to identify improvement opportunities.
+
+**Tools:**
+
+Python • Pandas • Data Visualization
+
+**Focus:**
+
+* Process analysis
+* Bottleneck identification
+* Operational performance metrics
+
+---
+
+## Current Learning Path
+
+Currently exploring:
+
+* Machine Learning for industrial applications
+* Operations Research algorithms
+* Supply Chain Analytics
+* Cloud technologies
+* AI-assisted engineering workflows
+
+---
+
+## Engineering Philosophy
+
+> "Good engineering starts with understanding the system before improving it."
+
+I believe that effective solutions come from combining:
+
+**Engineering knowledge + Data + Technology + Critical thinking**
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayssascat&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayssascat&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+LinkedIn | Email | GitHub
+
+</div>
