@@ -153,13 +153,7 @@ I believe that effective solutions come from combining:
 
 ---
 
-## GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayssascat&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayssascat&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
