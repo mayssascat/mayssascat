@@ -83,6 +83,7 @@ I am particularly interested in applying engineering principles and computationa
 * SQL
 * Power BI
 * Data visualization techniques
+* Html/Css
 
 ### Engineering Methods
 
